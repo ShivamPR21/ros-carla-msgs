@@ -11,6 +11,9 @@ set(MSG_FILES
     CarlaBoundingBox.msg
     CarlaEgoVehicleControl.msg
     CarlaEgoVehicleStatus.msg
+    CarlaEgoVehicleControlWheel.msg
+    CarlaEgoVehicleControlGear.msg
+    CarlaEgoVehicleControlPhysics.msg
     CarlaEgoVehicleInfoWheel.msg
     CarlaEgoVehicleInfo.msg
     CarlaCollisionEvent.msg
